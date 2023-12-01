@@ -52,7 +52,7 @@ summary: Come work at a really nice company.
 slug: we-are-hiring
 publsihedOn: '12-03-2020'
 ---
-## Come with with us
+## Come work with us
 `,
     `---
 title: Why you should write down everything
